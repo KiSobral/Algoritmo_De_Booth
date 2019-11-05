@@ -10,5 +10,10 @@ This algorithm was made with the notes stored in this [repository about computer
 [Note wich contains the booth algorithm](https://github.com/LeoSilvaGomes/Fac/blob/master/aula-10.md) 
 
 ___
-Os materiais usados e o código são feitos em **portugês brasileiro**.
-The notes and codes was made in **brazilian portuguese**.
+Os materiais usados e o código são feitos em **portugês brasileiro**.     
+The notes and codes was made in **brazilian portuguese**.     
+
+___
+## Authors
+- [Hugo Sobral](https://github.com/KiSobral/)
+- [Leonardo da Silva](https://github.com/LeoSilvaGomes/)
